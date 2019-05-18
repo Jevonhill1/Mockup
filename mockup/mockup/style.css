@@ -1,0 +1,38 @@
+* {
+  box-sizing: border-box;
+}
+body {
+  text-decoration: none;
+}
+main{
+  background-image: url(yahoomu.jpg);
+  text-decoration: none;
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center center;
+  height: 15rem;
+}
+#topnav {
+  background-color: #663399;
+   display: flex;
+   align-items: stretch;
+}
+.yahoo{
+  color: white;
+}
+.pic {
+  height: 25px;
+  width: 25px;
+  border-radius: 50%; 
+}
+.c{
+background-image: url(ferriswheel.jpg);
+background-size: cover;
+background-repeat: no-repeat;
+background-position: center center;
+list-style: none;
+}
+.left{
+  height: 100%;
+  background-color: black;
+}
